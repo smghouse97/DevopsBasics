@@ -50,4 +50,11 @@ Maven: Build tool for compiling and packaging the application.
 Azure Repos: Code repository management within Azure DevOps.
 Selenium: Automated testing framework for web applications.
 Azure DevOps: Platform for managing the CI/CD pipelines, repositories, and project boards.
+
+
 By completing this project, you will demonstrate your proficiency in setting up an automated deployment pipeline using Azure DevOps, integrating different tools and technologies to achieve a smooth CI/CD process. This project also showcases your ability to manage and track development tasks and testing using project boards and other collaboration tools within Azure DevOps.
+
+
+
+
+
